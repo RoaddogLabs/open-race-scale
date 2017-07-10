@@ -1,8 +1,10 @@
-### Open Race Scale Import Pi-Hat Enclosure
+### Open Race Scale Mechanical Parts
 
-This is a 3D printed enclosure for the Open Race Scale control board.
 
-***THIS design IS NOT YET VALIDATED***
+
+This includes a 3D printed enclosure for the Open Race Scale control board as well as scale pads.
+
+***THIS DESIGN IS NOT YET VALIDATED***
 
 
 Forked from https://github.com/jenkinsracing/open-race-scale by Andrew Jenkins license OSHW/public domain, software LGPL 2.0.
