@@ -1,9 +1,4 @@
 ### This is the Roaddog Labs fork of Open Race Scale
-**It is not synced with the current version deployed that Project and
-Issues are tracking** 
-
-See upstream source at
-https://github.com/jenkinsracing/open-race-scale/tree/master/software
 
 Current hardware deployment is Raspbian Jesse built for arm7l.  Install using current release (or NOOBS) and run `sudo apt-get update`.  Reminder: Raspbian requires root to install, use sudo. 
 
