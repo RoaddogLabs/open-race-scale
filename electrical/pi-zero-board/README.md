@@ -4,7 +4,7 @@
 
 This is an early release version of the integrated control board.  It is not yet ready for production.  It has passed Eagle ERC and DRC for Seeed Fusion PCB.
 
-Forked from https://github.com/jenkinsracing/open-race-scale by Andrew Jenkins no license listed
+Forked from https://github.com/jenkinsracing/open-race-scale by Andrew Jenkins license OSHW/public domain, software LGPL 2.0.
 
 Uses Pi Zero and integrated HX711 amps instead of Pi 3 and HX711 carrier
 boards.
