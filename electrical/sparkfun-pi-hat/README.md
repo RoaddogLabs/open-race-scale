@@ -1,4 +1,4 @@
-### Open Race Scale Pi Zero based control board
+### Open Race Scale Sparkfun HX711 carrier board control board
 
 ***THIS BOARD IS NOT YET VALIDATED***
 
