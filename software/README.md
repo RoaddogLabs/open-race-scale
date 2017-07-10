@@ -1,4 +1,4 @@
-######This is the Roaddog Labs fork of Open Race scale
+###### This is the Roaddog Labs fork of Open Race scale
 **It is not synced with the current version deployed that Project and Issues are tracking**
 See upstream source at https://github.com/jenkinsracing/open-race-scale/tree/master/software
 
@@ -8,7 +8,7 @@ Using default user pi code is deployed to ~pi
 
 This release requires dependencies to be built with python3
 
-change bool value of sim to False  `sim = False` in main.py to deploy on RPi hardware
+Change bool value of sim to False  `sim = False` in main.py to deploy on RPi hardware
 
 
 The software is currently designed in two parts.  
