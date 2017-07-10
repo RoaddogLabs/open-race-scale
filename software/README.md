@@ -7,7 +7,7 @@ Using default user pi code is deployed to ~pi, adjust your PYTHONPATH accordingl
 This release requires python3, dependencies to be built with python3
 
 Change bool value of sim to False  `sim = False` in main.py to deploy on
-RPi hardware
+RPi hardware.  Hardware integration is currently in development, in run mode there may be fatal errors.
 
 
 The software is currently designed in two parts. 1. Core - The core code
