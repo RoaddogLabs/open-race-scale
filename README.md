@@ -3,7 +3,7 @@
 This is the Roaddog Labs fork of Open Race Scale, the open hardware
 race car scale from Andrew Jenkins at
 https://github.com/jenkinsracing/open-race-scale used under OSHWA and
-LGPL 3.0 license.  [Original README.md] (./orig_README.md)
+LGPL 3.0 license.  [Original README.md](orig_README.md)
 
 This fork deals with hardware implementation, hardware packaging and
 PCB/PCBA design and fabrication.  This fork uses the software/firmware
