@@ -1,14 +1,27 @@
 # open-race-scale
-### Open Source Racecar Scale  
-Four load cell scale controller for weighing cars using HX711 load cell module and Raspberry Pi platform. User interface will be via Bluetooth and smart phone app. The overall cost target goal for a complete car weighing system is under $230, at least 75% cheaper than commerically available car scales.
-  
-### Roadmap  
-* Prototype electrical design as Raspberry Pi 3 Hat -> in progress  
-* Create simple mechanical design for load cells -> in progress  
-* Create Android/iOS app that will connect to the Rasberry Pi 3 to reccive live scale data (via bluetooth)  
-* Add advanced features for storing weights for comparision  
-* Add option of LCD screen directly on the Raspberry Pi 3  
-* Get feedback and feature requests  
-  
-### Design
-![Electrical Design](https://github.com/jenkinsracing/open-race-scale/blob/master/electrical/open-race-scale-pi-hat-v1_bb.png)
+# 
+This is the Roaddog Labs fork of Open Race Scales, the open hardware
+race car scale from Andrew Jenkins at
+https://github.com/jenkinsracing/open-race-scale used under OHWA and
+LGPL.30 license.  [Original README.md] (orig_README.md)
+
+This fork deals with hardware implementation, hardware packaging and
+PCB/PCBA design and fabrication.  This fork uses the software/firmware
+from the upstream fork.  Please issue software/firmware pull requests to
+the upstream repo.  Pull requests for hardware implementation in this
+fork are more than welcome.
+
+The `electrical` dir contains circuit designs and PCB/PCBA info.  It
+includes the reference design from the upstream master that uses Chengbo HX711 carriers, a Pi Zero W
+based control board with integrated HX711 load cell amps (no carriers) and Pi Hat design using Sparkfun HX711 formfactor carriers.
+
+The `mechanical` dir contains a reference scale pad design and enclosure designs for the various controller boards.
+
+
+Original designs from Roaddog Labs Ltd are released per the Open Source
+Hardware Association guidelines for open source hardware at
+http://www.oshwa.org/definition/.
+
+Material specific to the components and documentation that is not
+derived from other sources are released under the Creative Commons
+Attribution 4.0 International license.
