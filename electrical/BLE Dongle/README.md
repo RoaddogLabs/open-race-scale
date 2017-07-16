@@ -3,7 +3,7 @@
 
 This is a Bluetooth LE dongle that transmits data from the scale pad to the mobile device.
 
-There is no software or firmware at this time.  This is a reference design using an Adafruit Bluefruit nRF52 module and a Chenbo HX711 module.
+There is no software or firmware at this time.  This is a reference design using an Adafruit Bluefruit nRF52 module and a Chenbo HX711 module.  This board uses pins A0 for the d_out from the HX711 and pin A1 for the S_CLK to the HX711.  If/when this changes in the software the board will be updated.
 
 This is the Roaddog Labs fork of Open Race Scale, the open hardware
 race car scale from Andrew Jenkins at
